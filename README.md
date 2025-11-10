@@ -13,6 +13,7 @@ Objetivo:
 
 Cria o esquema conceitual para o contexto de oficina com base na narrativa fornecida
 Narrativa:
+
 •	Sistema de controle e gerenciamento de execução de ordens de serviço em uma oficina mecânica.
 
 •	Clientes levam veículos à oficina mecânica para serem consertados ou para passarem por revisões  periódicas.
@@ -32,6 +33,7 @@ Narrativa:
 A narrativa define diversos elementos essenciais para a modelagem, que foram traduzidos no modelo conceitual abaixo.
 
 ✅ Modelo Conceitual (Entidade-Relacionamento)
+
 📍 Entidades e Atributos
 
 - Cliente
