@@ -163,3 +163,6 @@ Equipe foi modelada como entidade própria, pois a narrativa indica que os mecâ
 
 "Conserto" e "Revisão" não são tipos de OS, mas tipos de serviços, representados na tabela Mão de Obra.
 
+Resultado do Desafio:
+
+![Imagem do Desafio - Oficina Mecânica](https://raw.githubusercontent.com/vaniabordin/Desafio_Oficina_Mecanica/main/Desafio%20-Construindo%20um%20Esquema%20Conceitual%20para%20Banco%20De%20dados%20-%20Oficina%20Mec%C3%A2nica.png)
